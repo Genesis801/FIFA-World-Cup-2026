@@ -557,7 +557,7 @@ Future upgrades could include:
 
 ---
 
-## 18. Why This Is a Good Portfolio Project
+<!-- ## 18. Why This Is a Good Portfolio Project
 
 This project demonstrates:
 
@@ -570,11 +570,11 @@ This project demonstrates:
 * web app development
 * sports analytics thinking
 
-It is a strong project for a data science or machine learning portfolio because it combines theory with a usable product.
+It is a strong project for a data science or machine learning portfolio because it combines theory with a usable product. -->
 
 ---
 
-## 19. File Responsibilities
+## 18. File Responsibilities
 
 ### `src/data_loader.py`
 
@@ -606,7 +606,7 @@ Provides the Streamlit UI and connects everything together.
 
 ---
 
-## 20. Final Summary
+## 19. Final Summary
 
 This app is a **World Cup match prediction engine** built from multiple football datasets and powered by a regression-plus-simulation approach.
 
