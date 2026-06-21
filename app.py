@@ -56,7 +56,8 @@ def main():
         host_team = None if host_choice == "Neutral / no host" else host_choice
 
         st.divider()
-        st.write("The model uses historical match regression outputs and adjusts them with 2026 supporting priors.")
+        st.write("The model uses historical match regression outputs and adjusts them with 2026 supporting priors.\n " \
+        "NOTE: The dataset does not include current tournament data and Performance of the teams.")
 
     col1, col2 = st.columns(2)
     with col1:
