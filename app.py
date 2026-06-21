@@ -130,8 +130,9 @@ def main():
 
     st.divider()
     st.info(
-        "Tip: For a more realistic app, you can add a stage selector, host advantage, and a knockout penalty/bonus. "
-        "That is already partially built into this version."
+        "Tip: For a more realistic results, you can add a stage selector and host advantage. " \
+        "The model uses historical match regression outputs and adjusts them with 2026 supporting priors. " \
+        "#Cheers to the sprit of the beautiful game! D.R"
     )
 
 
