@@ -1,6 +1,6 @@
 # FIFA World Cup Match Predictor
 
-A modular machine learning application that predicts the outcome of a FIFA World Cup match between two teams and estimates a likely scoreline with confidence. The app combines historical World Cup match data, team strength indicators, qualification performance, coach information, head-to-head records, and 2026 tournament context.
+A Match Prediction Engine that predicts the outcome of a FIFA World Cup match between two teams and estimates a likely scoreline with confidence%. The app combines historical World Cup match data, team strength indicators, qualification performance, coach information, head-to-head records, and 2026 tournament context. It uses Poisson Simulation and regression based prediction.
 
 ---
 
